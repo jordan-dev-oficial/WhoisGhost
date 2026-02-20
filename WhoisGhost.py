@@ -22,7 +22,7 @@ WHOIS_ART = fr"""
 {AZUL}| |__| | \__ \ |  __/ (__| \__ \{RESET}
 {AZUL} \____/|_|___/_|\___|\___|_|___/{RESET}
 {ROXO}       :: Ferramenta de Consulta WHOIS ::{RESET}
-{ROXO}       Desenvolvido por ghostcricket{RESET}
+{ROXO}       Desenvolvido por Jordan-dev-oficial{RESET}
 ------------------------------------------
 """
 
