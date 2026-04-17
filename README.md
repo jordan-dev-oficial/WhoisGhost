@@ -9,7 +9,7 @@ Ferramenta interativa de consulta WHOIS desenvolvida em Python 3.
 
 ## 🛠️ Como usar
 1. Clone o repositório:
-   `git clone https://github.com/seu-usuario/WhoisGhost.git`
+   `git clone`
 2. Entre na pasta:
    `cd WhoisGhost`
 3. Execute:
