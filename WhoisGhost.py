@@ -14,7 +14,7 @@ BRANCO = "\033[97m"
 INFO = "\033[94m" 
 RESET = "\033[0m"
 
-# --- 2. BANNER CORRIGIDO (Prefixo 'fr' evita o SyntaxWarning) ---
+# BANNER 
 WHOIS_ART = fr"""
 {AZUL} _    _ _     _           _     {RESET}
 {AZUL}| |  | (_)___(_) ___  ___| |___ {RESET}
